@@ -5,6 +5,7 @@ Olá!  Bem vindo ao meu livro de receitas :wave:
 - Lasanha
 - Pavê
 - Bolo de cenoura
+- Arroz com galinha
 
 
 
