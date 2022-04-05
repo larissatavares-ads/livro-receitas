@@ -1,8 +1,6 @@
 ## Bolo de cenoura :cake:
 
-
-
-![Bolo de Cenoura](/home/larissa/Documentos/livro-de-receitas/bolo-de-cenoura.jpg)
+<img src="/home/larissa/Documentos/livro-de-receitas/bolo-de-cenoura.jpg" style="zoom:80%;" /> 
 
 
 
