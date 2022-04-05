@@ -1,6 +1,6 @@
 ## Bolo de cenoura :cake:
 
-<img src = "bolo-de-cenoura.png">
+<img src = "bolo-de-cenoura.png" style="zoom:50%;" >
 
 #### Ingredientes
 
