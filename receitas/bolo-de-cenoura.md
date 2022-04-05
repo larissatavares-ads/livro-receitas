@@ -1,5 +1,7 @@
 ## Bolo de cenoura :cake:
 
+![Bolo de Cenoura](/home/larissa/Documentos/livro-de-receitas/receitas/bolo-de-cenoura.png)
+
 #### Ingredientes
 
 - 1/2 xícara (chá) de óleo
