@@ -1,6 +1,6 @@
 ## Bolo de cenoura :cake:
 
-![Bolo de Cenoura](/home/larissa/Documentos/livro-de-receitas/receitas/bolo-de-cenoura.png)
+[id]: https://atacarejown.com.br/wp-content/uploads/2020/01/receita-bolo-cenoura-chocolate.png "Bolo de Cenoura"
 
 #### Ingredientes
 
