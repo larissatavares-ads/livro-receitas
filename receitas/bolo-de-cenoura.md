@@ -2,7 +2,7 @@
 
 
 
-<img src="/home/larissa/Documentos/livro-de-receitas/bolo-de-cenoura.jpg" alt="alt" style="zoom:80%;" />
+<img src="/home/larissa/Documentos/livro-de-receitas/receitas/bolo-de-cenoura.jpg" alt="alt" style="zoom:80%;" />
 
 
 
