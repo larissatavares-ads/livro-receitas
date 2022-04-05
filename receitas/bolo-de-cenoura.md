@@ -1,6 +1,10 @@
 ## Bolo de cenoura :cake:
 
-<video src="https://www.youtube.com/watch?v=Oga2yajwAxY" />
+
+
+![Bolo de Cenoura](/home/larissa/Documentos/livro-de-receitas/bolo-de-cenoura.jpg)
+
+
 
 #### Ingredientes
 
