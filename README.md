@@ -20,5 +20,5 @@ Olá!  Bem vindo ao meu livro de receitas :wave:
 
 
 
-###### Estou estudando Git e GitHub pelo curso da Dio.me
+###### Estou estudando Git e GitHub pelo curso da Dio.me :tada:
 
